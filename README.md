@@ -11,3 +11,5 @@
 
 *italic text*
 **bolded text**
+
+[This is the text of a link] (https://www.google.com)  
